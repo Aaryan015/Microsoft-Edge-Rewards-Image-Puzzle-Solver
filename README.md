@@ -22,3 +22,4 @@ Then change/enter the input in the main() function to match exactly as the puzzl
 {7,0,3} //0 represents the empty tile/space
 {1,2,4}
 ```
+3. Run the code
