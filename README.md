@@ -15,8 +15,8 @@ Uses:
 ```sh
 https://github.com/Aaryan015/Microsoft-Edge-Rewards-Image-Puzzle-Solver.git
 ```
-2. Change the input board in the main() function, based on the puzzle. Enter the respective numbers of the tiles same as on the puzzle. For example, if the puzzle is: ![refresh](https://github.com/Aaryan015/Microsoft-Edge-Rewards-Image-Puzzle-Solver/blob/main/sample%20puzzle.png?raw=true)
-Then change the input in the main() function to this:
+2. Change the input board in the main() function, based on the puzzle. Enter the respective numbers of the tiles same as on the puzzle. For example, if the puzzle is like: ![refresh](https://github.com/Aaryan015/Microsoft-Edge-Rewards-Image-Puzzle-Solver/blob/main/sample%20puzzle.png?raw=true)
+Then change/enter the input in the main() function to match exactly as the puzzle:
 ```
 {5,8,6}
 {7,0,3} //0 represents the empty tile/space
