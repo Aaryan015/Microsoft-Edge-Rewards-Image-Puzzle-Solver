@@ -1,7 +1,7 @@
 ### I solve the puzzle everyday for fun (and for the reward points of course😉). This code shows the necessary steps required to solve it as quickly as possible✨
 -----
 ### About: 🪄
-This problem is similar to [LeetCode 773: Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/). The only slight difference there is the board size: 2x3. And for some test cases, the board is unsolvable. Here, the puzzle generated the Microsoft Edge is **always solvable**.
+#### This problem is similar to [LeetCode 773: Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/). The only slight difference there is the board size: 2x3. And for some test cases, the board is unsolvable. Here, the puzzle generated the Microsoft Edge is **always solvable**.
 -----
 ### Approach:🦮
 Uses:
